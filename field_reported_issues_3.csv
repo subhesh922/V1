@@ -1,0 +1,3000 @@
+Product,Fault_Code,Part_Category,Fault_Type
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Lines,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Missing/Not Original,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Backlight,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Problem,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Cable-Loose,DISPLAY,Failure
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Missing/Not Original,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC73/78,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Cable-Loose,DISPLAY,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Backlight,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Does Not Display,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Backlight,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Problem,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Problem,DISPLAY + TP,Failure
+MC93,Damage-Display,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Display Impact,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+MC93,Damage-Display,DISPLAY + TP,Damage
+MC93,Damage-Cracked Touch Panel,TOUCH PANEL,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Damage-Display,DISPLAY + TP,Damage
+TC21/26,Display-Blank,DISPLAY + TP,Failure
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Display-Blank,DISPLAY + TP,Failure
+TC52 Aslan,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Impact,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display Impact,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+MC93,Damage-Cracked Touch Panel,TOUCH PANEL,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Mufasa,Display-Backlight,DISPLAY + TP,Failure
+TC58,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC58,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+MC93,Display-Dark Back Light,DISPLAY,Failure
+MC93,Damage-Display,DISPLAY + TP,Damage
+MC93,Damage-Display,DISPLAY + TP,Damage
+MC93,Damage-Display,DISPLAY + TP,Damage
+MC93,Damage-Display,DISPLAY + TP,Damage
+MC93,Damage-Display,DISPLAY + TP,Damage
+MC93,Touch Panel-Incorrect Reaction,TOUCH PANEL,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+MC93,Display-Dark Back Light,DISPLAY,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC58,Display-Blank,DISPLAY + TP,Failure
+TC21/26,Display-Blank,DISPLAY + TP,Failure
+TC21/26,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Does Not Display,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Does Not Display,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Does Not Display,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Does Not Display,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Does Not Display,DISPLAY + TP,Failure
+TC52/57 Lightning,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Backlight,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+ET40/45,Other-Billing Only,DISPLAY + TP,Failure
+TC21/26,Other-Billing Only,DISPLAY + TP,Damage
+TC22/27,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Other-Billing Only,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC53,Comms-Nfc Reader Failure,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+MC93,Housing-Cosmetic Per Contract,TOUCH PANEL,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Damage
+MC93,Display-Dark Back Light,DISPLAY,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Backlight,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Backlight,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Backlight,DISPLAY + TP,Failure
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,TOUCH PANEL,Failure
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Other-Billing Only,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,TOUCH PANEL,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Alignment Issue,TOUCH PANEL,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Other-Excessive Dirt/Dust,DISPLAY,Damage
+TC52/57 Mufasa,Other-Excessive Dirt/Dust,TOUCH PANEL,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Lines,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+MC93,Damage-Cracked Touch Panel,TOUCH PANEL,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Graining,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Other-Excessive Dirt/Dust,DISPLAY,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Backlight,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Backlight,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Other-Billing Only,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+MC93,Display-Does Not Display,DISPLAY,Damage
+TC52 Aslan,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Backlight,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Does Not Display,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Touch Panel Impact,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Mufasa,Cable-Flex Cut,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+MC93,Damage-Display,DISPLAY + TP,Damage
+MC93,Damage-Display,DISPLAY + TP,Damage
+MC93,Damage-Display,DISPLAY + TP,Damage
+MC93,Damage-Display,DISPLAY + TP,Damage
+MC93,Damage-Display,DISPLAY + TP,Damage
+MC93,Damage-Display,DISPLAY + TP,Damage
+MC93,Damage-Display,DISPLAY + TP,Damage
+MC93,Damage-Display,DISPLAY + TP,Damage
+MC93,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Does Not Display,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+ET40/45,Other-Billing Only,DISPLAY + TP,Failure
+ET40/45,Other-Billing Only,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+MC93,Damage-Display,DISPLAY + TP,Damage
+MC93,Damage-Display,DISPLAY + TP,Damage
+MC93,Damage-Display,DISPLAY + TP,Damage
+MC93,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Does Not Display,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+ET40/45,Other-Billing Only,DISPLAY + TP,Failure
+ET40/45,Other-Billing Only,DISPLAY + TP,Failure
+TC21/26,Touch Panel-Calibration Prob,DISPLAY + TP,Damage
+TC21/26,Display-Blank,DISPLAY + TP,Failure
+TC21/26,Display-Blank,DISPLAY + TP,Failure
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Failure
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC58,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Graining,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+MC93,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+MC93,Damage-Display,DISPLAY + TP,Damage
+MC93,Damage-Display,DISPLAY + TP,Damage
+MC93,Damage-Cracked Touch Panel,TOUCH PANEL,Damage
+MC93,Damage-Display,DISPLAY,Damage
+TC21/26,Other-Billing Only,DISPLAY + TP,Failure
+TC52 Aslan,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52 Aslan,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display Impact,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-Alignment Issue,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Does Not Display,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+ET40/45,Other-Billing Only,DISPLAY + TP,Damage
+ET40/45,Other-Billing Only,DISPLAY + TP,Failure
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC21/26,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52 Aslan,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Backlight,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC58,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Alignment Issue,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC58,Other-Billing Only,DISPLAY + TP,Failure
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Problem,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Problem,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+MC93,Damage-Display,DISPLAY,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Problem,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Other-Billing Only,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display Impact,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Other-Billing Only,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,TOUCH PANEL,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,TOUCH PANEL,Damage
+TC52/57 Mufasa,Damage-Display Impact,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Display-Lines,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Mufasa,Other-Billing Only,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+ET40/45,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+ET80/85,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52 Aslan,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Damage-Display,DISPLAY + TP,Damage
+TC52 Aslan,Damage-Touch Panel Delamination,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Lines,DISPLAY + TP,Failure
+TC53,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,TOUCH PANEL,Damage
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+MC93,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Missing Char / Lines,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,TOUCH PANEL,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC21/26,Touch Panel-Calibration Prob,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Backlight,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Graining,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Faint/Contrast,DISPLAY + TP,Failure
+TC53,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC73/78,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC73/78,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+ET40/45,Damage-Component,DISPLAY + TP,Damage
+ET40/45,Other-Billing Only,DISPLAY + TP,Failure
+ET40/45,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+ET40/45,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+MC93,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC21/26,Touch Panel-Alignment Issue,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Graining,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Other-Billing Only,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Backlight,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Missing Char / Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Lines,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+MC93,Display-Backlight,DISPLAY,Failure
+TC21/26,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Backlight,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Display-Blank,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC53,Other-Billing Only,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Alignment Issue,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Alignment Issue,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Backlight,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Does Not Display,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Does Not Display,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,TOUCH PANEL,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC21/26,Other-Billing Only,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Display-Missing Char / Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display Impact,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+MC93,Display-Problem,DISPLAY,Damage
+MC93,Touch Panel-No Reaction,TOUCH PANEL,Damage
+MC93,Damage-Cracked Touch Panel,TOUCH PANEL,Damage
+MC93,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Lines,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+MC93,Damage-Display,DISPLAY + TP,Damage
+TC52 Aslan,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Display-Blank,DISPLAY + TP,Damage
+TC53,Other-Billing Only,DISPLAY + TP,Damage
+TC52/57 Mufasa,Other-Billing Only,DISPLAY + TP,Failure
+TC58,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Other-Billing Only,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Impact,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Impact,DISPLAY + TP,Damage
+TC52 Aslan,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Touch Panel Delamination,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+MC93,Damage-Cracked Touch Panel,TOUCH PANEL,Damage
+MC93,Display-Lines,DISPLAY,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Touch Panel Delamination,DISPLAY + TP,Damage
+TC21/26,Touch Panel-Incorrect Reaction,DISPLAY + TP,Damage
+TC52 Aslan,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC21/26,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC21/26,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Lines,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC53,Damage-Display,DISPLAY + TP,Damage
+MC93,Damage-Display,DISPLAY + TP,Damage
+TC58,Audio-Receiver Failure-No Sound,DISPLAY + TP,Failure
+TC22/27,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Graining,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Bright Dots,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Display,DISPLAY + TP,Damage
+TC53,Display-Spot,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC73/78,Other-Billing Only,DISPLAY + TP,Failure
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Display-Lines,DISPLAY + TP,Failure
+TC52 Aslan,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC53,Damage-Display,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC73/78,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC73/78,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,TOUCH PANEL,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Lightning,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Graining,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC22/27,Other-Billing Only,DISPLAY + TP,Failure
+TC52 Aslan,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Backlight,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Other-Billing Only,DISPLAY + TP,Damage
+TC52/57 Lightning,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Backlight,DISPLAY + TP,Failure
+TC52/57 Lightning,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Lightning,Other-Billing Only,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52 Aslan,Display-Blank,DISPLAY + TP,Failure
+TC52 Aslan,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Problem,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Problem,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Alignment Issue,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC21/26,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC21/26,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC73/78,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC22/27,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Problem,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+MC93,Touch Panel-Incorrect Reaction,TOUCH PANEL,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Other-Billing Only,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Alignment Issue,DISPLAY + TP,Failure
+TC52/57 Mufasa,Other-Billing Only,DISPLAY + TP,NFF
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Does Not Display,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Problem,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Problem,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Touch Panel-No Reaction,TOUCH PANEL,Failure
+TC52 Aslan,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52 Aslan,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Backlight,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Bright Dots,DISPLAY + TP,Failure
+TC58,Display-Blank,DISPLAY + TP,Damage
+TC21/26,Other-Billing Only,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Failure
+TC58,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+ET40/45,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+ET40/45,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+ET40/45,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+ET40/45,Touch Panel-No Reaction,DISPLAY + TP,Damage
+ET40/45,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+ET40/45,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Other-Billing Only,DISPLAY + TP,Damage
+TC52/57 Lightning,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Backlight,DISPLAY + TP,Failure
+TC52/57 Lightning,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Lightning,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52 Aslan,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Spot,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Display-Blank,DISPLAY + TP,Damage
+TC53,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Touch Panel Delamination,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Backlight,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Mufasa,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Mufasa,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Other-Billing Only,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Touch Panel Delamination,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+MC93,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Lines,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC53,Display-Blank,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Audio-Receiver Failure-No Sound,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Lines,DISPLAY + TP,Failure
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Display-Blank,DISPLAY + TP,Failure
+TC52 Aslan,Display-Problem,DISPLAY + TP,Failure
+TC52 Aslan,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+MC93,Touch Panel-Incorrect Reaction,TOUCH PANEL,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52 Aslan,Damage-Display Impact,DISPLAY + TP,Damage
+TC52 Aslan,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Graining,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Spot,DISPLAY + TP,Failure
+TC52/57 Mufasa,Other-Billing Only,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Other-Billing Only,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+ET40/45,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC21/26,Display-Blank,DISPLAY + TP,Failure
+TC21/26,Display-Backlight,TOUCH PANEL,Damage
+TC21/26,Display-Backlight,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC22/27,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Display,DISPLAY + TP,Damage
+TC58,Display-Lines,DISPLAY + TP,Failure
+MC93,Damage-Touch Panel Delamination,TOUCH PANEL,Damage
+MC93,Display-Blank,DISPLAY,Damage
+TC22/27,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Backlight,DISPLAY + TP,Failure
+TC53,Display-Lines,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Touch Panel Delamination,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Cable-Loose,DISPLAY,Damage
+TC58,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC58,Display-Lines,DISPLAY + TP,Failure
+TC21/26,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52 Aslan,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Cable-Flex Cut,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Bright Dots,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Display-Lines,DISPLAY + TP,Damage
+TC21/26,Display-Backlight,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC22/27,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Lines,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Display-Blank,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC73/78,Touch Panel-Incorrect Reaction,DISPLAY + TP,Damage
+TC73/78,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC21/26,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Touch Panel Delamination,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Backlight,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Missing/Not Original,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Touch Panel-Incorrect Reaction,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Lightning,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Lightning,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Lightning,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Backlight,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Other-Billing Only,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Display-Lines,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Cable-Loose,DISPLAY,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC53,Display-Lines,DISPLAY + TP,Failure
+TC53,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-Alignment Issue,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+MC93,Housing-Cosmetic Per Contract,TOUCH PANEL,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Backlight,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Alignment Issue,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Lines,DISPLAY + TP,Failure
+ET40/45,Display-Problem,DISPLAY + TP,Failure
+ET60/65,Other-Billing Only,TOUCH PANEL,Failure
+ET60/65,Other-Billing Only,TOUCH PANEL,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Display-Spot,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Problem,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Lines,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Problem,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Backlight,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC58,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Alignment Issue,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Other-Billing Only,DISPLAY + TP,Damage
+MC93,Display-Lines,DISPLAY,Failure
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Spot,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+MC93,Display-Lines,DISPLAY,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Other-Billing Only,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Backlight,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Does Not Display,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Does Not Display,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+MC94,Damage-Cracked Touch Panel,TOUCH PANEL,Damage
+MC94,Damage-Display,DISPLAY,Damage
+TC21/26,Touch Panel-No Reaction,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Backlight,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Dark Back Light,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC73/78,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Graining,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Touch Panel Delamination,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+L10AX Windows,Power-No Power,TOUCH PANEL,Failure
+L10AX Windows,Other-Eco/Ff,TOUCH PANEL,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Other-Light Sensor Failure (Proximity),DISPLAY,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Problem,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Other-Billing Only,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC21/26,Display-Bright Dots,DISPLAY + TP,Damage
+TC22/27,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC22/27,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-No Reaction,TOUCH PANEL,Failure
+TC52/57 Lightning,Other-Billing Only,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Graining,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Display-Blank,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Display,DISPLAY + TP,Damage
+TC53,Display-Blank,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC58,Damage-Display,DISPLAY + TP,Damage
+TC58,Other-Billing Only,DISPLAY + TP,Failure
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC53,Damage-Display,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Problem,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Does Not Display,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Display,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Display-Blank,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC58,Damage-Display,DISPLAY + TP,Damage
+MC94,Other-Billing Only,DISPLAY,Failure
+MC94,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+MC93,Damage-Display,DISPLAY + TP,Damage
+TC22/27,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC53,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Dark Back Light,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+MC93,Touch Panel-No Reaction,TOUCH PANEL,Damage
+TC52 Aslan,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Other-Billing Only,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Display,DISPLAY + TP,Damage
+TC53,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Cable-Loose,DISPLAY,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+MC93,Damage-Display Cracked,DISPLAY,Damage
+TC21/26,Touch Panel-Incorrect Reaction,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Touch Panel-No Reaction,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+MC93,Display-Dark Back Light,DISPLAY,Failure
+TC52 Aslan,Damage-Display,DISPLAY + TP,Damage
+TC52 Aslan,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Backlight,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Does Not Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Bright Dots,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Bright Dots,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Other-Billing Only,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC58,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Spot,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Does Not Display,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Other-Billing Only,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Other-Billing Only,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Spot,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC73/78,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+MC93,Damage-Cracked Touch Panel,TOUCH PANEL,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Backlight,DISPLAY + TP,Failure
+TC53,Display-Blank,DISPLAY + TP,Failure
+TC53,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Spot,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Does Not Display,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Lightning,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,TOUCH PANEL,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Display-Backlight,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Lightning,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC58,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Lightning,Display-Graining,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Lightning,Touch Panel-Alignment Issue,DISPLAY,Failure
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC21/26,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Touch Panel Delamination,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC53,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Backlight,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC22/27,Other-Billing Only,DISPLAY + TP,Failure
+TC52 Aslan,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Touch Panel Delamination,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Spot,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC22/27,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Does Not Display,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Does Not Display,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Does Not Display,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Touch Panel Delamination,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Does Not Display,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Damage-Touch Panel Delamination,TOUCH PANEL,Damage
+TC52/57 Lightning,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Backlight,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Other-Billing Only,DISPLAY + TP,Damage
+TC21/26,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52 Aslan,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Cable-Loose,TOUCH PANEL,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Other-Billing Only,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Touch Panel Delamination,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Lines,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Alignment Issue,TOUCH PANEL,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC53,Damage-Display,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC58,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Lightning,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Problem,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Display-Blank,DISPLAY + TP,Failure
+TC52 Aslan,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC53,Audio-None Or Distorted,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Display Cracked,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Bright Dots,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Bright Dots,DISPLAY + TP,Failure
+MC93,Touch Panel-No Reaction,TOUCH PANEL,Failure
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Touch Panel Delamination,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Touch Panel-Incorrect Reaction,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Display Cracked,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Touch Panel-Incorrect Reaction,DISPLAY + TP,Damage
+TC53,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC53,Other-Billing Only,DISPLAY + TP,Failure
+TC58,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Display-Blank,DISPLAY + TP,Damage
+TC53,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Display-Blank,DISPLAY + TP,Failure
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Display-Blank,DISPLAY + TP,Damage
+TC22/27,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Does Not Display,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Other-Billing Only,DISPLAY + TP,NFF
+TC52 Aslan,Display-Blank,DISPLAY + TP,Failure
+TC52 Aslan,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC73/78,Damage-Display Cracked,DISPLAY + TP,Damage
+ET40/45,Other-Billing Only,DISPLAY + TP,Failure
+TC52 Aslan,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC53,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC53,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC73/78,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC73/78,Damage-Display Cracked,DISPLAY + TP,Damage
+MC93,Display-Lines,DISPLAY,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Spot,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Display-Spot,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC58,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Graining,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Display-Blank,DISPLAY + TP,Failure
+TC53,Display-Spot,DISPLAY + TP,Damage
+TC53,Display-Lines,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Display-Blank,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Touch Panel-No Reaction,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+ET40/45,Power-No Power,DISPLAY + TP,Damage
+TC22/27,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Does Not Display,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Spot,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Spot,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Display-Blank,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC58,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC58,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Lightning,Cable-Flex Cut,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC53,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC53,Display-Lines,DISPLAY + TP,Failure
+TC53,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Missing/Not Original,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Touch Panel-No Reaction,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC53,Display-Blank,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Other-Billing Only,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Graining,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Other-Billing Only,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+MC93,Damage-Cracked Touch Panel,TOUCH PANEL,Damage
+MC93,Damage-Display Cracked,DISPLAY,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+MC93,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC21/26,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Lightning,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Spot,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Spot,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Backlight,DISPLAY + TP,Failure
+TC22/27,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Color Distortion,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Problem,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Problem,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC58,Housing-Cosmetic Per Contract,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC53,Damage-Display,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+MC93,Damage-TP Scratched/Dents,TOUCH PANEL,Damage
+TC52 Aslan,Damage-Display,DISPLAY + TP,Damage
+TC52 Aslan,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC53,Damage-Display,DISPLAY + TP,Damage
+TC53,Other-Billing Only,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52 Aslan,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Display Cracked,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+MC93,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC21/26,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52 Aslan,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,TOUCH PANEL,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Display-Blank,DISPLAY + TP,Damage
+TC53,Display-Backlight,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Audio-None Or Distorted,DISPLAY + TP,Failure
+TC53,Audio-None Or Distorted,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Backlight,DISPLAY + TP,Failure
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Does Not Display,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC53,Damage-Display,DISPLAY + TP,Damage
+TC53,Display-Blank,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Touch Panel-Incorrect Reaction,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+L10AX Windows,Touch Panel-No Reaction,TOUCH PANEL,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Spot,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Other-Billing Only,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Other-Billing Only,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Lines,DISPLAY + TP,Failure
+TC53,Display-Spot,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Display-Blank,DISPLAY + TP,Damage
+TC53,Touch Panel-Incorrect Reaction,DISPLAY + TP,Damage
+TC53,Damage-Display Cracked,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC22/27,Display-Blank,DISPLAY + TP,Failure
+TC22/27,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Spot,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Spot,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Display-Blank,DISPLAY + TP,Damage
+TC53,Display-Blank,DISPLAY + TP,Damage
+TC53,Damage-Display,DISPLAY + TP,Damage
+TC53,Display-Blank,DISPLAY + TP,Damage
+TC53,Touch Panel-Alignment Issue,TOUCH PANEL,Failure
+TC53,Display-Does Not Display,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Display-Problem,DISPLAY + TP,Failure
+TC22/27,Other-Billing Only,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Display,DISPLAY + TP,Damage
+TC53,Damage-Display,DISPLAY + TP,Damage
+TC53,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Display,DISPLAY + TP,Damage
+TC53,Touch Panel-No Reaction,DISPLAY + TP,Damage
+TC52/57 Lightning,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-No Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Does Not Display,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Does Not Display,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-TP Scratched/Dents,DISPLAY + TP,Damage
+TC53,Display-Blank,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Other-Billing Only,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52 Aslan,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Touch Panel-Incorrect Reaction,DISPLAY + TP,Failure
+TC52/57 Lightning,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Other-Billing Only,DISPLAY + TP,Failure
+TC73/78,Damage-Display Cracked,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC21/26,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Lightning,Other-Billing Only,DISPLAY + TP,NFF
+TC52/57 Lightning,Touch Panel-Alignment Issue,DISPLAY + TP,Failure
+TC52/57 Lightning,Display-Blank,DISPLAY + TP,Failure
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC53,Damage-Display,DISPLAY + TP,Damage
+TC53,Damage-Cracked Touch Panel,DISPLAY + TP,Damage
+TC52/57 Mufasa,Housing-Cosmetic Per Contract,DISPLAY + TP,Failure
+TC52/57 Mufasa,Display-Blank,DISPLAY + TP,Failure
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display Cracked,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
+TC52/57 Mufasa,Damage-Display,DISPLAY + TP,Damage
